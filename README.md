@@ -4,6 +4,7 @@
 
 A tidy home is a tidy mind or a wasted life, depending on which way you look at it. But a tidy file structure for designs/development is one that will make your life handier. Below is the file structure that I use:
 
+![struktur-folder](https://user-images.githubusercontent.com/30391072/65344055-ced9c600-dc00-11e9-8d18-8caf925e251b.jpg)
 
 I keep all my projects in a projects folder. 😱
 
