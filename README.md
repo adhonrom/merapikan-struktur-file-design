@@ -18,3 +18,6 @@ Each project contains a sketch file, a folder for assets, and a folder for previ
 
 ###### this is how to put image into md github : [GitHub Readme Images Tutorial](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
 ###### [Markdown Cheatseet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+---
+[Resource](https://medium.com/@ElWexicano/how-i-use-github-for-designs-888f2665d6ff)
