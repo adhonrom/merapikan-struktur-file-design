@@ -14,6 +14,7 @@ Each project contains a sketch file, a folder for assets, and a folder for previ
 + Sketch files are in camel case. “SuperAwesomeApp.sketch”
 + Images are in lowercase with an underscore between the name and usage of it. “icon_github.png”
 
+---
 
 ###### this is how to put image into md github : [I'm an inline-style link with title](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
 ###### Markdown Cheatseet : [I'm an inline-style link with title](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
